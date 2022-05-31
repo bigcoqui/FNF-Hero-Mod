@@ -18,7 +18,9 @@ import Controls.KeyboardScheme;
 import flixel.FlxG;
 import openfl.display.FPS;
 import openfl.Lib;
+#if newgrounds
 import io.newgrounds.NG;
+#end
 import lime.app.Application;
 
 using StringTools;
